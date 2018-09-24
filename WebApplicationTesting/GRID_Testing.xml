@@ -1,0 +1,18 @@
+<suite name="Grid ScenariosTesting suite" parallel="tests">
+
+
+  <test name="on Firefox">
+<parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.GridTestinig.NewToursLogInTest"/>
+    </classes>
+  </test>
+
+  <test name="on Chrome">
+<parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.GridTestinig.NewToursLogInTest"/>
+    </classes>
+  </test>
+
+</suite>

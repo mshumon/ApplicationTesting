@@ -1,0 +1,27 @@
+package com.WebTableTesting;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class CompleteTableData {
+
+	public static void main(String[] args)
+	{
+		FirefoxDriver driver = new FirefoxDriver();
+		driver.get("https://www.timeanddate.com/worldclock/");
+		
+		// html/body/div[1]/div[8]/section[2]/div[1]/table/tbody/tr[1]/td[1]
+		// html/body/div[1]/div[8]/section[2]/div[1]/table/tbody/tr[36]/td[8]
+		
+		String part1="html/body/div[1]/div[8]/section[2]/div[1]/table/tbody/tr[";
+		String part2="]/td[";
+		String part3="]";
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

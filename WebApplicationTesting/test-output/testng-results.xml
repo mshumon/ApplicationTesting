@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11888" started-at="2018-05-13T16:32:40Z" finished-at="2018-05-13T16:32:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11888" started-at="2018-05-13T16:32:40Z" finished-at="2018-05-13T16:32:52Z">
+      <class name="keyywordSunday053.NewToursSunday0513">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:keyywordSunday053.NewToursSunday0513@32d992b2]" name="setUp" is-config="true" duration-ms="6913" started-at="2018-05-13T12:32:40Z" finished-at="2018-05-13T12:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:keyywordSunday053.NewToursSunday0513@32d992b2]" name="LogIn" duration-ms="4741" started-at="2018-05-13T12:32:48Z" finished-at="2018-05-13T12:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:keyywordSunday053.NewToursSunday0513@32d992b2]" name="teardown" is-config="true" duration-ms="13" started-at="2018-05-13T12:32:52Z" finished-at="2018-05-13T12:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- keyywordSunday053.NewToursSunday0513 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,68 @@
+
+   Testing?
+
+FirstJavaProg_BrowserAutomation_01/08/17
+
+
+Functional  No- Functional
+
+
+Manual Testing, Performance testing
+
+
+
+Based on requirements/BRS/ Use cases.....
+
+
+Test Plan/Test cases.
+
+Defects-
+
+Dev team do coding- New build- push a new build to Dev server
+
+Re- testing- Closed the defects
+
+-- Regression Testing- Automation testing- re- usable- save time/ save money.....
+
+
+1. JDK 1.8 -- JAVA software
+
+2. Eclipse
+
+3. Selenium Stanalone Server 
+
+
+
+Go to http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+Under Java SE Development Kit 8u151 click Accept License Agreement 
+
+Go to all way down and selects the window 64x file
+
+https://www.eclipse.org/downloads/packages/release/Oxygen/2
+
+Use 7ZIP to ext to here righr click on folder ans sent to desktop shrotcut and coy the file to Desktop and createa folder  
+src= Source Code folder/ Package
+
+JRE- Java runtimr envi
+
+http://www.seleniumhq.org/
+
+go to download-selects previous releases link(http://selenium-release.storage.googleapis.com/index.html?path=2.53/)
+SeleStanaloneServer 2.53
+
+2.53.1.jar
+
+
+Config Selenium server with current project.
+
+go eclipes- right click on the project- select properites-selects java build path-selects library Tab-click on Add external JAR button-
+navigate to location where the selenium server JAR file is present- select the file - click on open- click on apply and save.
+
+now we will find additional folder call as reference liberary created with the project which consists of the selenium server associated.
+
+ShumonSelenium
+
+Web Application Testing
+
+Shumon Testing 

@@ -1,0 +1,38 @@
+package sundayclass012118;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class arrraysunday0916 {
+
+	public static void main(String[] args) 
+	
+	{
+	
+	/*int a=10;
+	    a=5;
+	    a=3;
+	    a=30;
+	
+	System.out.println(a);*/
+		
+		List<String>a= new ArrayList<>();
+		
+		a.add("Sunday");
+		a.add("Polo");
+		a.add("Apple");
+		
+		/*System.out.println(a.get(0));
+		System.out.println(a.get(1));
+		System.out.println(a.get(2));*/
+		
+		for (int i=0;i<3;i++)
+		{
+			System.out.println(i);
+		}
+		
+		
+
+	}
+
+}

@@ -1,0 +1,18 @@
+
+ <a href="mercuryregister.php">REGISTER</a>
+
+ a -- anchor tag --- linkText
+   --creation of a link will be done only with a as an anchor tag
+
+ href(referenced URL) - attribute
+
+locort - linkText
+Selector - REGISTER
+
+
+No Id, Name has been given for as a locator, selector
+
+A is a anchor tag in HTML Language which will be used by develper for creating a link on a web page.
+
+Find a element by locator, what's locator?
+ since its a tag which mean its partical link type link   if the elemt is type link the locator should be used as linktext

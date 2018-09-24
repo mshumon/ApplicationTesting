@@ -1,0 +1,7 @@
+
+ <a href="mercuryregister.php?osCsid=55600f202c76ac78db6d5b200fd0a9c9">REGISTER</a>
+
+ a - anchor tag (link) -- linkText(locator)
+ REGISTER - Selector
+ href - Attribute
+ 

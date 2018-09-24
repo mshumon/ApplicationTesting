@@ -1,0 +1,17 @@
+package test01;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class BrowserAutoma 
+{
+
+	public static void main(String[] args)
+	{
+		
+		FirefoxDriver Shumon = new FirefoxDriver();
+    
+    Shumon.get("http://cnn.com");
+    
+	}
+
+}

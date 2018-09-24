@@ -1,0 +1,63 @@
+package keyywordSunday053;
+
+import java.io.FileInputStream;
+import java.util.Properties;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.BeforeTest;
+
+public class NewToursSunday0513 
+{
+
+FirefoxDriver driver;
+@BeforeTest
+public void setUp()
+{
+driver = new FirefoxDriver();
+driver.get("http://www.newtours.demoaut.com/");
+
+@Test
+public void LogIn()
+{
+FileInputStream file = new FileInputStream("C:\\Users\\Minu\\Desktop\\ShumonSelenium\\WebApplicationTesting\\NewtourAppSunday.properties");
+Properties pr = new Properties();
+pr.load(file);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,15 @@
+package test01;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class BrowserAutoma 
+{
+
+	public static <firefoxDriver> void main(String[] args)
+	{
+		
+	firefoxDriver shumon = new FirefoxDriver
+    
+	}
+
+}

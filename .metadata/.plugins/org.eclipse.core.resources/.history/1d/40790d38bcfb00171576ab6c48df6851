@@ -1,0 +1,17 @@
+package test01;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class BrowserAutoma 
+{
+
+	public static void main(String[] args)
+	{
+		
+		driver= new FirefoxDriver();
+    
+    driver.get("http://cnn.com");
+    
+	}
+
+}
